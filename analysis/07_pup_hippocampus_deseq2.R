@@ -2,7 +2,7 @@
 #Hannah Lapp PhD
 #Champagne Lab, Fall 2021
 
-#Pup hippocmapus deseq2 analysis and figures
+#Pup hippoczmpus deseq2 analysis and figures
 
 library(tidyverse)
 library("DESeq2")
