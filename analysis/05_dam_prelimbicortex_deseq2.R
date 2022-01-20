@@ -2,7 +2,7 @@
 #Hannah Lapp PhD
 #Champagne Lab, Fall 2021
 
-#Dam amygdala deseq2 analysis and figures
+#Dam prelimbic cortex deseq2 analysis and figures
 
 library(tidyverse)
 library("DESeq2")
