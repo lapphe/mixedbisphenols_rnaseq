@@ -1,0 +1,13 @@
+pup_id,condition,dam_id,sex,exposure,avg_lg
+14.8,mixed,14,female,mixed,305.599
+19.5,mixed,19,female,mixed,176.468
+20.7,mixed,20,female,mixed,248.71625
+13.5,mixed,13,male,mixed,397.6713333
+13.6,mixed,13,male,mixed,397.6713333
+19.6,mixed,19,male,mixed,176.468
+20.8,mixed,20,male,mixed,248.71625
+17.x,vehicle,17,female,vehicle,630.0247143
+23.6,vehicle,23,female,vehicle,129.17
+24.5,vehicle,24,female,vehicle,288.5581667
+23.7,vehicle,23,male,vehicle,129.17
+24.6,vehicle,24,male,vehicle,288.5581667
